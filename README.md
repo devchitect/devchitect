@@ -1,5 +1,4 @@
-  <h1 align="center">Wassup! my Guest, 
-    <br><img src="https://profile-counter.glitch.me/{devchitect}/count.svg">
+  <h1 align="center">Wassup!
     <br>I'm <em>Devchitect.</em>
   </h1>
  
