@@ -6,9 +6,3 @@
  <ul>
   <li>I'm a Website Developer and currently i'm contributing to frontend/backend developement for building web applications.</li>
 </ul>
-
-
-  
-  ### 
-  
-  ![snake gif](https://github.com/devchitect/devchitect/blob/output/github-contribution-grid-snake.svg)
