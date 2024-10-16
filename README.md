@@ -1,5 +1,5 @@
   <h1 align="center">Wassup!
-    <br>I'm <em>Devchitect.</em>
+    <br>I'm <em>Dzung Nguyen.</em>
   </h1>
  
  ### :man_technologist: About me:
